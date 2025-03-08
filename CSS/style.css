@@ -2,13 +2,7 @@ body {
     background-color: #1B1B25;
 }
 
-h1 {
-    color: rgb(255, 255, 255);
-}
-p {
-    color: white;
-}
-h2 {
+*{
     color: white;
 }
 
@@ -34,14 +28,13 @@ li.nav a {
     font-family: "Garamond", serif;
     font-size: 1.2em;
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 25px;
     text-decoration: none;
 }
 
 li.nav a:hover {
-    background-color: #dbdfdf7e;
+    background-color: #dbdfdf21;
 }
 
 body::before {
